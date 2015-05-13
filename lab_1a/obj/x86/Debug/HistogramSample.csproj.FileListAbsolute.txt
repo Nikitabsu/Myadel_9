@@ -1,0 +1,38 @@
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\Sample.jpg
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\HistogramSample.exe
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\HistogramSample.pdb
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.dll
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.Imaging.dll
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.Math.dll
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.xml
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.Imaging.xml
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\bin\Debug\AForge.Math.xml
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample.csprojResolveAssemblyReference.cache
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\App.g.cs
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample_MarkupCompile.cache
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample.g.resources
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\TrompeLeCode.HistogramSample.Properties.Resources.resources
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample.csproj.GenerateResource.Cache
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample.exe
+C:\Users\Arsenal\Downloads\HistogramSample\HistogramSample\obj\x86\Debug\HistogramSample.pdb
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\HistogramSample.exe
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\HistogramSample.pdb
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\HistogramSample.exe
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\HistogramSample.pdb
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.dll
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.Imaging.dll
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.Math.dll
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.xml
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.Imaging.xml
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\bin\Debug\AForge.Math.xml
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\MainWindow.baml
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\MainWindow.g.cs
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\App.g.cs
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\HistogramSample_MarkupCompile.cache
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\HistogramSample.g.resources
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\TrompeLeCode.HistogramSample.Properties.Resources.resources
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Универ\3. Графика\lab 1a\1a\HistogramSample\obj\x86\Debug\GenerateResource.write.1.tlog
