@@ -1,0 +1,40 @@
+c:\users\sined\documents\visual studio 2012\Projects\CGLab3\CGLab3\bin\Debug\CGLab3.exe.config
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\bin\Debug\CGLab3.exe
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\bin\Debug\CGLab3.pdb
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\MainWindow.baml
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\MainWindow.g.cs
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\App.g.cs
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3_MarkupCompile.cache
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.g.resources
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.exe
+C:\Users\SINED\Documents\Visual Studio 2012\Projects\CGLab3\CGLab3\obj\Debug\CGLab3.pdb
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\bin\Debug\CGLab3.exe.config
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.pdb
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\bin\Debug\CGLab3.exe
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\bin\Debug\CGLab3.pdb
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.csprojResolveAssemblyReference.cache
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\MainWindow.baml
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\MainWindow.g.cs
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\App.g.cs
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3_MarkupCompile.cache
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.g.resources
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.csproj.GenerateResource.Cache
+C:\Users\Arsenal\Downloads\CGLab3\CGLab3\CGLab3\obj\Debug\CGLab3.exe
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\bin\Debug\CGLab3.exe.config
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\CGLab3.exe
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\CGLab3.pdb
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\bin\Debug\CGLab3.exe
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\bin\Debug\CGLab3.pdb
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\ResolveAssemblyReference.cache
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\MainWindow.baml
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\MainWindow.g.cs
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\App.g.cs
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\CGLab3_MarkupCompile.cache
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\CGLab3.g.resources
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\CGLab3.Properties.Resources.resources
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\GenerateResource.read.1.tlog
+E:\Универ\3. Графика\lab 3\CGLab3_1\CGLab3\CGLab3\obj\Debug\GenerateResource.write.1.tlog
